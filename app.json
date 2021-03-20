@@ -2,7 +2,7 @@
   "expo": {
     "name": "シンプルな時間割　中央大学",
     "slug": "chuo-app-sjikanwari-slug",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
