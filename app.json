@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "シンプルな時間割　中央大学",
+    "slug": "chuo-app-sjikanwari-slug",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "jp.seyaken.sinplenajikanwari",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "jp.seyaken.sinplenajikanwari",
+      "versionCode": 1,
+      "permissions": [],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon_adaptive_foreground.png",
+        "backgroundImage": "./assets/icon_adaptive_background.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
